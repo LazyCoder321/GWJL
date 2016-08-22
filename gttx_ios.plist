@@ -9,6 +9,22 @@
 			<array>
 				<dict>
 					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://fs09.testin.cn/ctf/2jFFFIYfRkZGSS90ZXN0aW5QcmUvMjAxNi8wOC8yMi8xMS80MjE1MjA1Ny82ZTAzMzhlUVRzTQ==.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://fs09.testin.cn/ctf/2jFFFIYfRkZGSS90ZXN0aW5QcmUvMjAxNi8wOC8yMi8xMS80MjE1MjA1Ny82ZTAzMzhlUVRzTQ==.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
 					<string>http://app.gttxkjgs.com/gttx_ios.ipa</string>
